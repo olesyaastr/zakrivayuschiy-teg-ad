@@ -1,0 +1,17 @@
+/*в этом файле хранятся все переменные для управления стилем страницы*/
+
+:root {
+    --main-font: 'Inter'; /*основной шрифт*/
+    --accent-font: 'PressStart2P-Regular'; /*акцентный шрифт*/
+    --bg-color: #fff;
+    --color: #000;
+    --stroke-color: #fff;
+    --heart-color: red;
+    --border-color: #000;
+    --linear-gradient-first: #e7e7e7;
+    --linear-gradient-second: #1a1a1a;
+    --mix-blend-color: #fff;
+    --header-weight: 700;
+    --text-weight: 400;
+    --accent-color: #000;
+}
